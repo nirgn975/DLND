@@ -1,8 +1,8 @@
 # DLND - Udacity Deep Learning Foundation Nanodegree (nd101)
 
-[![license][license-image]] [![Donate][donate-image]]
+[![license][license-image]][license-url] [![Donate][donate-image]][donate-url]
 
-This is the five project from the [Deep Learning foundation nanodegree program](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101).
+The repo contains the five project from the [Deep Learning foundation nanodegree program](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101).
 
 ## Pre Requirements
 
