@@ -17,5 +17,5 @@ Not Yet.
 
 [license-image]: https://img.shields.io/badge/license-ISC-blue.svg
 [license-url]: https://github.com/nirgn975/DLND/blob/master/LICENSE
-[donate-image]: https://img.shields.io/badge/Donate-PayPal-lightgrey.svg
+[donate-image]: https://img.shields.io/badge/PayPal-Donate-lightgrey.svg
 [donate-url]: https://www.paypal.me/nirgn/1
